@@ -1,0 +1,560 @@
+{
+  "landmarks": [
+    {
+      "building_id": "HP-w10726438",
+      "name": "外滩中心",
+      "expected_m": 198.9,
+      "manifest_m": 198.9,
+      "mesh_bbox_m": 198.9,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w51317372",
+      "name": "上海世茂广场",
+      "expected_m": 333.0,
+      "manifest_m": 333.0,
+      "mesh_bbox_m": 333.0,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w445161727",
+      "name": "明天广场",
+      "expected_m": 284.6,
+      "manifest_m": 284.6,
+      "mesh_bbox_m": 284.6,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w65254415",
+      "name": "香港新世界大厦",
+      "expected_m": 242.0,
+      "manifest_m": 242.0,
+      "mesh_bbox_m": 242.0,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w445860578",
+      "name": "来福士广场",
+      "expected_m": 222.0,
+      "manifest_m": 222.0,
+      "mesh_bbox_m": 222.0,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w369317530",
+      "name": "市政大厦",
+      "expected_m": 157.8,
+      "manifest_m": 157.8,
+      "mesh_bbox_m": 157.8,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w369342602",
+      "name": "创兴金融中心",
+      "expected_m": 174.0,
+      "manifest_m": 174.0,
+      "mesh_bbox_m": 174.0,
+      "ok": true
+    }
+  ],
+  "parts": {
+    "parts_listed_as_separate_records": [],
+    "buildings": [
+      {
+        "building_id": "HP-w10628441",
+        "name": "瑞安广场",
+        "parts": 1,
+        "max_part_height_m": 144.4,
+        "mesh_bbox_m": 144.4,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w51317372",
+        "name": "上海世茂广场",
+        "parts": 5,
+        "max_part_height_m": 333.0,
+        "mesh_bbox_m": 333.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w160821059",
+        "name": "恒基名人购物中心",
+        "parts": 2,
+        "max_part_height_m": 125.4,
+        "mesh_bbox_m": 125.4,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w160895021",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 75.0,
+        "mesh_bbox_m": 75.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w161090899",
+        "name": "上海博物馆",
+        "parts": 3,
+        "max_part_height_m": 24.0,
+        "mesh_bbox_m": 24.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w177929845",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 39.0,
+        "mesh_bbox_m": 39.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w177929849",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 48.0,
+        "mesh_bbox_m": 48.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w177995050",
+        "name": "中国银行大楼",
+        "parts": 1,
+        "max_part_height_m": 48.0,
+        "mesh_bbox_m": 48.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w178801539",
+        "name": "上海市人民政府",
+        "parts": 2,
+        "max_part_height_m": 50.0,
+        "mesh_bbox_m": 50.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w257424587",
+        "name": "大上海时代广场",
+        "parts": 3,
+        "max_part_height_m": 75.0,
+        "mesh_bbox_m": 75.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w289656294",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 81.0,
+        "mesh_bbox_m": 81.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w369237832",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 75.0,
+        "mesh_bbox_m": 75.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w369238006",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 96.0,
+        "mesh_bbox_m": 96.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w369342594",
+        "name": "仙乐斯广场",
+        "parts": 2,
+        "max_part_height_m": 150.0,
+        "mesh_bbox_m": 150.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w372180394",
+        "name": "上海广场",
+        "parts": 1,
+        "max_part_height_m": 169.0,
+        "mesh_bbox_m": 169.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w378107083",
+        "name": "上海工商联大厦",
+        "parts": 1,
+        "max_part_height_m": 108.0,
+        "mesh_bbox_m": 108.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w436817401",
+        "name": "金钟广场",
+        "parts": 1,
+        "max_part_height_m": 208.0,
+        "mesh_bbox_m": 208.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w436817402",
+        "name": "兰生大厦",
+        "parts": 2,
+        "max_part_height_m": 196.0,
+        "mesh_bbox_m": 196.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w445161727",
+        "name": "明天广场",
+        "parts": 19,
+        "max_part_height_m": 284.6,
+        "mesh_bbox_m": 284.6,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w488968699",
+        "name": "民防大厦",
+        "parts": 2,
+        "max_part_height_m": 99.0,
+        "mesh_bbox_m": 99.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w524424597",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 24.0,
+        "mesh_bbox_m": 24.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w524424600",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 24.0,
+        "mesh_bbox_m": 24.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w524424604",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 24.0,
+        "mesh_bbox_m": 24.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w525387329",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 108.0,
+        "mesh_bbox_m": 108.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w792384681",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 129.0,
+        "mesh_bbox_m": 129.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w859467784",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 48.0,
+        "mesh_bbox_m": 48.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w1058562700",
+        "name": "",
+        "parts": 2,
+        "max_part_height_m": 19.0,
+        "mesh_bbox_m": 19.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w1197334329",
+        "name": "",
+        "parts": 1,
+        "max_part_height_m": 150.0,
+        "mesh_bbox_m": 150.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w1319579611",
+        "name": "",
+        "parts": 5,
+        "max_part_height_m": 54.0,
+        "mesh_bbox_m": 54.0,
+        "ok": true
+      },
+      {
+        "building_id": "HP-w1319592295",
+        "name": "",
+        "parts": 3,
+        "max_part_height_m": 69.0,
+        "mesh_bbox_m": 69.0,
+        "ok": true
+      }
+    ],
+    "ok": true
+  },
+  "sample_meshes": [
+    {
+      "building_id": "HP-w1198645084",
+      "finite": true,
+      "triangles": 22,
+      "signed_volume_m3": 456.1,
+      "height_m": 8.15,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w408450646",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 391.9,
+      "height_m": 5.43,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1367350980",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 913.4,
+      "height_m": 8.62,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w369237930",
+      "finite": true,
+      "triangles": 10,
+      "signed_volume_m3": 23522.8,
+      "height_m": 30.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w553893868",
+      "finite": true,
+      "triangles": 34,
+      "signed_volume_m3": 2494.1,
+      "height_m": 8.87,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1203858315",
+      "finite": true,
+      "triangles": 34,
+      "signed_volume_m3": 1983.6,
+      "height_m": 10.32,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w282881402",
+      "finite": true,
+      "triangles": 10,
+      "signed_volume_m3": 4527.3,
+      "height_m": 9.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w414733204",
+      "finite": true,
+      "triangles": 28,
+      "signed_volume_m3": 6031.2,
+      "height_m": 15.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w983161515",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 704.9,
+      "height_m": 8.34,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1435272425",
+      "finite": true,
+      "triangles": 13,
+      "signed_volume_m3": 8336.1,
+      "height_m": 18.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w303313602",
+      "finite": true,
+      "triangles": 46,
+      "signed_volume_m3": 17122.8,
+      "height_m": 18.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1376988775",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 959.1,
+      "height_m": 8.68,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1216207225",
+      "finite": true,
+      "triangles": 22,
+      "signed_volume_m3": 5159.3,
+      "height_m": 6.6,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1197020937",
+      "finite": true,
+      "triangles": 19,
+      "signed_volume_m3": 3944.9,
+      "height_m": 11.95,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w369317485",
+      "finite": true,
+      "triangles": 10,
+      "signed_volume_m3": 4088.9,
+      "height_m": 12.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w757502021",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 2853.7,
+      "height_m": 12.31,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w859488833",
+      "finite": true,
+      "triangles": 16,
+      "signed_volume_m3": 1583.6,
+      "height_m": 9.35,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1516733016",
+      "finite": true,
+      "triangles": 31,
+      "signed_volume_m3": 4089.9,
+      "height_m": 14.83,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w1211773145",
+      "finite": true,
+      "triangles": 34,
+      "signed_volume_m3": 54410.5,
+      "height_m": 36.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    },
+    {
+      "building_id": "HP-w859488758",
+      "finite": true,
+      "triangles": 22,
+      "signed_volume_m3": 6890.5,
+      "height_m": 9.0,
+      "min_y": 0.0,
+      "roof_normals_up": true,
+      "ok": true
+    }
+  ],
+  "consistency": {
+    "rows": 7039,
+    "model_files": 7039,
+    "rows_equal_files": true,
+    "all_model_files_exist": true,
+    "all_tile_files_exist": true,
+    "building_id_unique": true,
+    "ok": true
+  },
+  "data_source": {
+    "rule_estimate": {
+      "count": 4909,
+      "percent": 69.7
+    },
+    "neighbor_estimate": {
+      "count": 1088,
+      "percent": 15.5
+    },
+    "osm_levels": {
+      "count": 1005,
+      "percent": 14.3
+    },
+    "osm_height": {
+      "count": 37,
+      "percent": 0.5
+    }
+  },
+  "archetype": {
+    "shikumen": 2968,
+    "midrise_res": 1592,
+    "lowrise_res": 1252,
+    "midhigh_res": 373,
+    "highrise_res": 367,
+    "commercial": 301,
+    "public": 77,
+    "highrise_office": 67,
+    "other": 15,
+    "canopy": 14,
+    "industrial": 13
+  },
+  "extent_m": {
+    "east": [
+      -2422.43,
+      2430.58
+    ],
+    "north": [
+      -2895.78,
+      2891.86
+    ],
+    "ok": true
+  },
+  "all_ok": true
+}

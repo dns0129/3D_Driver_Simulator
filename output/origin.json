@@ -1,0 +1,23 @@
+{
+  "lat": 31.2196,
+  "lon": 121.4779,
+  "datum": "WGS-84 (OSM 原始坐标，不是 GCJ-02)",
+  "projection": "local tangent plane (ENU), meters",
+  "m_per_deg_lat": 110873.2583,
+  "m_per_deg_lon": 95284.7792,
+  "formula": {
+    "m_per_deg_lat": "111132.954 - 559.822*cos(2φ) + 1.175*cos(4φ)",
+    "m_per_deg_lon": "111412.84*cos(φ) - 93.5*cos(3φ)",
+    "east_m": "(lon - lon0) * m_per_deg_lon",
+    "north_m": "(lat - lat0) * m_per_deg_lat"
+  },
+  "gltf_axes": "X = east, Y = up, Z = south (meters)",
+  "ue_axes": "X = east, Y = south, Z = up (centimeters); ue_x_cm = east_m*100, ue_y_cm = -north_m*100",
+  "ground_z": 0.0,
+  "tile_size_m": 500.0,
+  "tile_origin_east_m": -2500.0,
+  "tile_origin_north_m": -3000.0,
+  "tile_rule": "tile_<i>_<j>: i = floor((east - tile_origin_east)/500), j = floor((north - tile_origin_north)/500)",
+  "osm_timestamp": "2026-10-24T05:20:49Z",
+  "attribution": "© OpenStreetMap contributors, ODbL 1.0"
+}

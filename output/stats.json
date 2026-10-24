@@ -1,0 +1,838 @@
+{
+  "osm_timestamp": "2026-10-24T05:20:49Z",
+  "elements_total": 7114,
+  "outlines": 7039,
+  "parts": 74,
+  "parts_attached": 74,
+  "parts_standalone": 0,
+  "outlines_with_parts": 30,
+  "skipped_invalid_geometry": [],
+  "records": 7039,
+  "tiles": 94,
+  "data_source": {
+    "neighbor_estimate": 1088,
+    "osm_height": 37,
+    "rule_estimate": 4909,
+    "osm_levels": 1005
+  },
+  "archetype": {
+    "highrise_office": 67,
+    "canopy": 14,
+    "midhigh_res": 373,
+    "midrise_res": 1592,
+    "other": 15,
+    "commercial": 301,
+    "lowrise_res": 1252,
+    "highrise_res": 367,
+    "shikumen": 2968,
+    "public": 77,
+    "industrial": 13
+  },
+  "roof_shape": {
+    "flat": 4052,
+    "gabled": 2969,
+    "hipped": 15,
+    "skillion": 3
+  },
+  "huangpu_all_written": true,
+  "buildings_with_parts": [
+    {
+      "building_id": "HP-w10628441",
+      "name": "瑞安广场",
+      "parts": [
+        {
+          "part": "w372180509",
+          "min_height_m": 0.0,
+          "height_m": 144.4,
+          "roof_shape": "flat",
+          "data_source": "neighbor_estimate"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 6171.7,
+        "height_m": 19.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w51317372",
+      "name": "上海世茂广场",
+      "parts": [
+        {
+          "part": "w524255214",
+          "min_height_m": 0.0,
+          "height_m": 333.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524255215",
+          "min_height_m": 0.0,
+          "height_m": 333.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524255216",
+          "min_height_m": 0.0,
+          "height_m": 246.0,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524255217",
+          "min_height_m": 0.0,
+          "height_m": 185.0,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524255218",
+          "min_height_m": 0.0,
+          "height_m": 246.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 9541.5,
+        "height_m": 30.4,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w160821059",
+      "name": "恒基名人购物中心",
+      "parts": [
+        {
+          "part": "w160821062",
+          "min_height_m": 0.0,
+          "height_m": 125.4,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w553786164",
+          "min_height_m": 0.0,
+          "height_m": 26.6,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w160895021",
+      "name": "",
+      "parts": [
+        {
+          "part": "w160895020",
+          "min_height_m": 0.0,
+          "height_m": 75.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 997.2,
+        "height_m": 13.5,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w161090899",
+      "name": "上海博物馆",
+      "parts": [
+        {
+          "part": "w161090894",
+          "min_height_m": 0.0,
+          "height_m": 5.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w161090902",
+          "min_height_m": 0.0,
+          "height_m": 18.0,
+          "roof_shape": "flat",
+          "data_source": "rule_estimate"
+        },
+        {
+          "part": "w161090914",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w177929845",
+      "name": "",
+      "parts": [
+        {
+          "part": "w177929848",
+          "min_height_m": 0.0,
+          "height_m": 39.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 476.2,
+        "height_m": 30.0,
+        "data_source": "osm_levels"
+      }
+    },
+    {
+      "building_id": "HP-w177929849",
+      "name": "",
+      "parts": [
+        {
+          "part": "w446944635",
+          "min_height_m": 0.0,
+          "height_m": 48.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 429.0,
+        "height_m": 39.0,
+        "data_source": "osm_levels"
+      }
+    },
+    {
+      "building_id": "HP-w177995050",
+      "name": "中国银行大楼",
+      "parts": [
+        {
+          "part": "w177995048",
+          "min_height_m": 0.0,
+          "height_m": 48.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 140.5,
+        "height_m": 6.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w178801539",
+      "name": "上海市人民政府",
+      "parts": [
+        {
+          "part": "w1317361384",
+          "min_height_m": 0.0,
+          "height_m": 20.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w1317361385",
+          "min_height_m": 0.0,
+          "height_m": 50.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w257424587",
+      "name": "大上海时代广场",
+      "parts": [
+        {
+          "part": "w1322100036",
+          "min_height_m": 0.0,
+          "height_m": 75.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1322100037",
+          "min_height_m": 0.0,
+          "height_m": 25.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w1322100038",
+          "min_height_m": 0.0,
+          "height_m": 75.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w289656294",
+      "name": "",
+      "parts": [
+        {
+          "part": "w289656297",
+          "min_height_m": 30.0,
+          "height_m": 66.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w289656302",
+          "min_height_m": 66.0,
+          "height_m": 81.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w369237832",
+      "name": "",
+      "parts": [
+        {
+          "part": "w447021393",
+          "min_height_m": 0.0,
+          "height_m": 75.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w447021395",
+          "min_height_m": 0.0,
+          "height_m": 75.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 1843.1,
+        "height_m": 30.4,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w369238006",
+      "name": "",
+      "parts": [
+        {
+          "part": "w447021396",
+          "min_height_m": 0.0,
+          "height_m": 96.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 1135.6,
+        "height_m": 19.0,
+        "data_source": "osm_levels"
+      }
+    },
+    {
+      "building_id": "HP-w369342594",
+      "name": "仙乐斯广场",
+      "parts": [
+        {
+          "part": "w526195125",
+          "min_height_m": 0.0,
+          "height_m": 6.0,
+          "roof_shape": "flat",
+          "data_source": "rule_estimate"
+        },
+        {
+          "part": "w526195126",
+          "min_height_m": 0.0,
+          "height_m": 150.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 1942.4,
+        "height_m": 18.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w372180394",
+      "name": "上海广场",
+      "parts": [
+        {
+          "part": "w526007301",
+          "min_height_m": 0.0,
+          "height_m": 169.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 5762.2,
+        "height_m": 30.4,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w378107083",
+      "name": "上海工商联大厦",
+      "parts": [
+        {
+          "part": "w378107085",
+          "min_height_m": 0.0,
+          "height_m": 108.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 2029.3,
+        "height_m": 34.2,
+        "data_source": "osm_levels"
+      }
+    },
+    {
+      "building_id": "HP-w436817401",
+      "name": "金钟广场",
+      "parts": [
+        {
+          "part": "w165824721",
+          "min_height_m": 0.0,
+          "height_m": 208.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 2974.2,
+        "height_m": 36.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w436817402",
+      "name": "兰生大厦",
+      "parts": [
+        {
+          "part": "w165824723",
+          "min_height_m": 0.0,
+          "height_m": 6.0,
+          "roof_shape": "flat",
+          "data_source": "rule_estimate"
+        },
+        {
+          "part": "w165824725",
+          "min_height_m": 0.0,
+          "height_m": 196.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 1861.6,
+        "height_m": 36.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w445161727",
+      "name": "明天广场",
+      "parts": [
+        {
+          "part": "w442078922",
+          "min_height_m": 0.0,
+          "height_m": 160.8,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244532",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244533",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244534",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244535",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244536",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244537",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244538",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244539",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244540",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244542",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244545",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244546",
+          "min_height_m": 160.8,
+          "height_m": 284.6,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524244547",
+          "min_height_m": 160.8,
+          "height_m": 238.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524516128",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524516131",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524516134",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524516137",
+          "min_height_m": 0.0,
+          "height_m": 169.5,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524878518",
+          "min_height_m": 0.0,
+          "height_m": 26.6,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w488968699",
+      "name": "民防大厦",
+      "parts": [
+        {
+          "part": "w929423647",
+          "min_height_m": 0.0,
+          "height_m": 99.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319814516",
+          "min_height_m": 0.0,
+          "height_m": 15.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w524424597",
+      "name": "",
+      "parts": [
+        {
+          "part": "w524424596",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524424598",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w524424600",
+      "name": "",
+      "parts": [
+        {
+          "part": "w524424599",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524424601",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w524424604",
+      "name": "",
+      "parts": [
+        {
+          "part": "w524424602",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        },
+        {
+          "part": "w524424603",
+          "min_height_m": 0.0,
+          "height_m": 24.0,
+          "roof_shape": "skillion",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w525387329",
+      "name": "",
+      "parts": [
+        {
+          "part": "w369317479",
+          "min_height_m": 0.0,
+          "height_m": 108.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 10102.0,
+        "height_m": 19.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w792384681",
+      "name": "",
+      "parts": [
+        {
+          "part": "w102220714",
+          "min_height_m": 0.0,
+          "height_m": 129.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 2573.7,
+        "height_m": 13.5,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w859467784",
+      "name": "",
+      "parts": [
+        {
+          "part": "w1319819592",
+          "min_height_m": 0.0,
+          "height_m": 15.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319819593",
+          "min_height_m": 0.0,
+          "height_m": 48.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w1058562700",
+      "name": "",
+      "parts": [
+        {
+          "part": "w1157189045",
+          "min_height_m": 0.0,
+          "height_m": 18.0,
+          "roof_shape": "flat",
+          "data_source": "rule_estimate"
+        },
+        {
+          "part": "w1157189046",
+          "min_height_m": 0.0,
+          "height_m": 19.0,
+          "roof_shape": "flat",
+          "data_source": "rule_estimate"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 3242.1,
+        "height_m": 19.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w1197334329",
+      "name": "",
+      "parts": [
+        {
+          "part": "w192040931",
+          "min_height_m": 0.0,
+          "height_m": 150.0,
+          "roof_shape": "flat",
+          "data_source": "osm_height"
+        }
+      ],
+      "podium_remainder": {
+        "area_m2": 2967.9,
+        "height_m": 19.0,
+        "data_source": "rule_estimate"
+      }
+    },
+    {
+      "building_id": "HP-w1319579611",
+      "name": "",
+      "parts": [
+        {
+          "part": "w1319579607",
+          "min_height_m": 0.0,
+          "height_m": 15.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319579608",
+          "min_height_m": 0.0,
+          "height_m": 15.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319579609",
+          "min_height_m": 0.0,
+          "height_m": 15.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319579610",
+          "min_height_m": 0.0,
+          "height_m": 54.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319579612",
+          "min_height_m": 0.0,
+          "height_m": 54.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    },
+    {
+      "building_id": "HP-w1319592295",
+      "name": "",
+      "parts": [
+        {
+          "part": "w1319592296",
+          "min_height_m": 0.0,
+          "height_m": 69.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "w1319592297",
+          "min_height_m": 0.0,
+          "height_m": 69.0,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        },
+        {
+          "part": "r18106236",
+          "min_height_m": 0.0,
+          "height_m": 15.2,
+          "roof_shape": "flat",
+          "data_source": "osm_levels"
+        }
+      ],
+      "podium_remainder": null
+    }
+  ],
+  "tiles_total_bytes": 20157904,
+  "total_triangles": 136328
+}
